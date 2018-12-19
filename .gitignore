@@ -1,0 +1,6 @@
+*.pyc
+data
+__pychche__
+.project
+.pydevproject
+.settings
